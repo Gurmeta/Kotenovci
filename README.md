@@ -1,4 +1,4 @@
-# Kotenovtsi — a website for my village
+# Kotenovtsi - a website for my village
 
 [![CI](https://github.com/Gurmeta/Kotenovci/actions/workflows/ci.yml/badge.svg)](https://github.com/Gurmeta/Kotenovci/actions/workflows/ci.yml)
 [![Deploy](https://github.com/Gurmeta/Kotenovci/actions/workflows/deploy.yml/badge.svg)](https://github.com/Gurmeta/Kotenovci/actions/workflows/deploy.yml)
@@ -192,5 +192,3 @@ Feel free to open an issue. The village is small, but its history is big.
 ## License
 
 Released under the [MIT License](LICENSE) — © 2026 Georgi Stefanov.
-
-— Georgi
