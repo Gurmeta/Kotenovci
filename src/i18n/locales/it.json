@@ -1,0 +1,157 @@
+{
+  "common": {
+    "villageName": "Kotenovtsi",
+    "municipality": "Berkovitsa",
+    "province": "Montana",
+    "sanctuaryName": "Santuario e fortezza tracia"
+  },
+  "meta": {
+    "description": "Sito web del villaggio di Kotenovtsi, comune di Berkovitsa, provincia di Montana, Bulgaria — storia, luoghi di interesse, galleria e contatti."
+  },
+  "navbar": {
+    "menuLabel": "Menu",
+    "brandAlt": "Stemma di {{village}}"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Il paese",
+    "attractions": "Attrazioni",
+    "gallery": "Galleria",
+    "contacts": "Contatti"
+  },
+  "footer": {
+    "copyright": "© {{year}} villaggio di {{village}}, comune di {{municipality}}, provincia di {{province}}",
+    "meta": "Altitudine {{elevation}} m · CAP {{postalCode}}"
+  },
+  "home": {
+    "titleSuffix": "un villaggio ai piedi dei Balcani",
+    "hero": {
+      "welcome": "Benvenuti a {{village}}",
+      "subtitle": "Un villaggio ai piedi della Stara Planina, comune di {{municipality}}, provincia di {{province}}",
+      "hint": "Scopri il villaggio"
+    },
+    "whyVisit": {
+      "title": "Perché visitare {{village}}",
+      "lead": "Un piccolo villaggio con una grande storia — a {{distanceBerkovitsa}} km da Berkovitsa e a {{distanceSofia}} km da Sofia."
+    },
+    "highlights": [
+      {
+        "title": "La fortezza di Kotenovtsi",
+        "text": "Resti di un'antica fortezza nei dintorni del villaggio, testimonianza della ricca storia della zona."
+      },
+      {
+        "title": "Stara Planina",
+        "text": "Il villaggio si trova ai piedi della montagna, tra foreste di faggio e quercia — ideale per il trekking."
+      },
+      {
+        "title": "Silenzio e natura",
+        "text": "Lontano dal rumore della città, {{village}} offre aria pura e tranquillità a {{elevation}} m di altitudine."
+      }
+    ],
+    "more": {
+      "title": "Scopri di più",
+      "lead": "Scopri la storia del villaggio, esplora le attrazioni e mettiti in contatto con noi."
+    },
+    "facts": {
+      "population": "abitanti",
+      "elevation": "sul livello del mare",
+      "toBerkovitsa": "da Berkovitsa",
+      "toSofia": "da Sofia",
+      "metersValue": "{{value}} m",
+      "kmValue": "{{value}} km"
+    }
+  },
+  "about": {
+    "title": "Il paese",
+    "lead": "{{village}} è un piccolo villaggio della Bulgaria nordoccidentale, ai piedi della Stara Planina.",
+    "sections": [
+      {
+        "heading": "Posizione geografica",
+        "body": "Il villaggio di {{village}} si trova nel comune di {{municipality}}, provincia di {{province}}, a circa {{distanceBerkovitsa}} km a nordovest della città di Berkovitsa, a {{distanceMontana}} km a sudovest della città di Montana e a circa {{distanceSofia}} km a nordovest di Sofia. Il terreno è collinare, di tipo submontano, coperto da foreste di faggio e quercia, e l'altitudine media raggiunge i {{elevation}} metri."
+      },
+      {
+        "heading": "Origine del nome",
+        "body": "Il nome «{{village}}» deriva dal verbo antico-bulgaro «kutam» — nascondere, celare. Il villaggio è infatti nascosto lungo il fiume Zlatitsa, tra diverse vallate, il che per lungo tempo lo ha tenuto lontano dall'attenzione di cronisti e scrittori — nascosto, ma resiliente."
+      },
+      {
+        "heading": "Storia",
+        "body": "La zona intorno al villaggio conserva tracce di un antico insediamento — non lontano si trovano i resti della fortezza di Kotenovtsi e un santuario tracio, testimonianza della storia secolare di questa terra ai piedi della Stara Planina (la catena dei Balcani). La popolazione di {{village}} non ha mai superato le 1000 persone, e il villaggio ha subito devastazioni causate da epidemie e invasioni almeno tre volte nel corso della sua storia — risorgendo ogni volta, come l'araba fenice."
+      },
+      {
+        "heading": "Luoghi e natura",
+        "body": "Il fiume Zlatitsa scorre accanto al villaggio — descritto dagli abitanti del luogo come «tanto dorato quanto insanguinato» per le vicissitudini della storia. I dintorni sono costellati di località dai nomi evocativi: Zdravitsa, Zdravchenitsa, Tserovski Vrah e Tserovski Dol, oltre a Martvini — luoghi ombrosi dove il sole fatica ad arrivare. Foreste di faggio e quercia circondano il villaggio, e la vicinanza alla Stara Planina lo rende un punto di riferimento per i turisti in cerca di aria pura, sentieri di montagna e tranquillità lontano dal rumore della città."
+      },
+      {
+        "heading": "Tradizioni e cultura",
+        "body": "{{village}} è noto per la celebre banda musicale di Kotenovtsi, per la ricchezza dei canti popolari e per le tradizioni legate agli haiduk, i ribelli delle montagne balcaniche. Laboriosità e pazienza sono considerate caratteristiche tipiche della gente del luogo — qualità forgiate dalla vita non facile in questa terra di montagna."
+      }
+    ]
+  },
+  "attractions": {
+    "title": "Attrazioni",
+    "lead": "Scopri i tesori storici e naturali di {{village}} e dei suoi dintorni.",
+    "sourceLabel": "Fonte",
+    "items": [
+      {
+        "title": "Santuario e fortezza tracia",
+        "text": "Su una collina sopra il villaggio si trova un complesso che i ricercatori definiscono «oggetto di culto, santuario, fortezza, insediamento» — con una superficie di circa 1.000 metri quadrati. Durante gli scavi dell'inizio del secolo scorso vi furono rinvenuti una lastra di marmo raffigurante il Cavaliere Trace, un rilievo di una ninfa dei boschi e monete romane. Il sito è databile, presumibilmente, all'epoca romana.",
+        "citation": "V. Dobruski, «I cavalieri traci e altre divinità cavalcanti» (1907)",
+        "citationUrl": "https://bulgariansanctuaries.com/2019/05/14/%d1%81%d0%b2%d0%b5%d1%82%d0%b8%d0%bb%d0%b8%d1%89%d0%b5-%d0%ba%d0%be%d1%82%d0%b5%d0%bd%d0%be%d0%b2%d1%86%d0%b8/"
+      },
+      {
+        "title": "Chiesa dell'Ascensione di Cristo",
+        "text": "La chiesa del villaggio, costruita nel 1863 — il cuore spirituale di Kotenovtsi da oltre un secolo e mezzo, testimone dell'epoca della Rinascita nazionale bulgara in questa regione montana."
+      },
+      {
+        "title": "Il fiume Zlatitsa",
+        "text": "Il fiume lungo il quale è adagiato il villaggio — gli abitanti del luogo lo descrivono come «tanto dorato quanto insanguinato». Il suo nome non è casuale: un tempo dal suo letto si estraeva l'oro con la tecnica della setacciatura."
+      },
+      {
+        "title": "Tserovski Vrah e Tserovski Dol",
+        "text": "Pittoreschi luoghi nei dintorni, parte della rete di sentieri tra le foreste di faggio e quercia della Stara Planina."
+      },
+      {
+        "title": "Zdravitsa e Zdravchenitsa",
+        "text": "Località il cui nome è legato allo zdravets (il geranio odoroso) — simbolo di salute e benedizione nella tradizione bulgara."
+      },
+      {
+        "title": "Sentieri sulla Stara Planina",
+        "text": "Percorsi tra foreste di faggio e quercia, adatti al trekking e all'osservazione della natura."
+      },
+      {
+        "title": "Architettura tradizionale del villaggio",
+        "text": "Autentiche case in pietra e legno, caratteristiche dei villaggi della Bulgaria nordoccidentale."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria",
+    "lead": "Foto di {{village}} e dei suoi dintorni.",
+    "placeholderNote": "(Immagini segnaposto — saranno sostituite con foto reali del villaggio.)",
+    "photos": [
+      "Vista sulla Stara Planina",
+      "La fortezza di Kotenovtsi",
+      "Foresta di faggi",
+      "Strada del villaggio",
+      "La chiesa del villaggio",
+      "Tramonto sulla valle"
+    ]
+  },
+  "contacts": {
+    "title": "Contatti",
+    "lead": "Contattaci o trovaci sulla mappa.",
+    "infoTitle": "Informazioni",
+    "addressVillage": "Villaggio di {{village}}",
+    "addressMunicipality": "Comune di {{municipality}}",
+    "addressProvince": "Provincia di {{province}}",
+    "addressPostal": "CAP: {{postalCode}}",
+    "note": "Per domande relative al villaggio, potete rivolgervi all'Amministrazione comunale di {{municipality}}.",
+    "linksTitle": "Link utili",
+    "linkMunicipality": "Comune di Berkovitsa — sito ufficiale",
+    "linkWikipedia": "Kotenovtsi su Wikipedia",
+    "linkWikipediaUrl": "https://en.wikipedia.org/wiki/Kotenovtsi"
+  },
+  "languageSwitcher": {
+    "label": "Lingua"
+  }
+}

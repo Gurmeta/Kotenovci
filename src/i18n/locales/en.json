@@ -1,0 +1,157 @@
+{
+  "common": {
+    "villageName": "Kotenovtsi",
+    "municipality": "Berkovitsa",
+    "province": "Montana",
+    "sanctuaryName": "Thracian Sanctuary and Fortress"
+  },
+  "meta": {
+    "description": "A website about the village of Kotenovtsi, Berkovitsa municipality, Montana Province, Bulgaria — history, landmarks, gallery and contacts."
+  },
+  "navbar": {
+    "menuLabel": "Menu",
+    "brandAlt": "Coat of arms of {{village}}"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About the Village",
+    "attractions": "Attractions",
+    "gallery": "Gallery",
+    "contacts": "Contact"
+  },
+  "footer": {
+    "copyright": "© {{year}} the village of {{village}}, {{municipality}} Municipality, {{province}} Province",
+    "meta": "Elevation {{elevation}} m · Postal code {{postalCode}}"
+  },
+  "home": {
+    "titleSuffix": "a village at the foot of the Balkan Mountains",
+    "hero": {
+      "welcome": "Welcome to {{village}}",
+      "subtitle": "A village at the foot of Stara Planina, {{municipality}} Municipality, {{province}} Province",
+      "hint": "Discover the village"
+    },
+    "whyVisit": {
+      "title": "Why visit {{village}}",
+      "lead": "A small village with a big history — {{distanceBerkovitsa}} km from Berkovitsa and {{distanceSofia}} km from Sofia."
+    },
+    "highlights": [
+      {
+        "title": "Kotenovtsi Fortress",
+        "text": "The remains of an ancient fortress near the village, bearing witness to the area's rich history."
+      },
+      {
+        "title": "Stara Planina",
+        "text": "The village lies at the foot of the mountain, amid beech and oak forests — perfect for hiking."
+      },
+      {
+        "title": "Peace and Nature",
+        "text": "Far from the noise of the city, {{village}} offers clean air and tranquility at {{elevation}} m above sea level."
+      }
+    ],
+    "more": {
+      "title": "Explore More",
+      "lead": "Learn about the village's history, discover its attractions, and get in touch with us."
+    },
+    "facts": {
+      "population": "residents",
+      "elevation": "above sea level",
+      "toBerkovitsa": "to Berkovitsa",
+      "toSofia": "to Sofia",
+      "metersValue": "{{value}} m",
+      "kmValue": "{{value}} km"
+    }
+  },
+  "about": {
+    "title": "About the Village",
+    "lead": "{{village}} is a small village in northwestern Bulgaria, at the foot of Stara Planina (the Balkan Mountains).",
+    "sections": [
+      {
+        "heading": "Geographic Location",
+        "body": "The village of {{village}} is located in {{municipality}} Municipality, {{province}} Province, about {{distanceBerkovitsa}} km northwest of the town of Berkovitsa, {{distanceMontana}} km southwest of the city of Montana, and approximately {{distanceSofia}} km northwest of Sofia. The terrain is foothill country, covered with beech and oak forests, with an average elevation of {{elevation}} meters."
+      },
+      {
+        "heading": "Origin of the Name",
+        "body": "The name \"{{village}}\" derives from the Old Bulgarian verb \"kutam\" — to hide, to conceal. The village is indeed tucked away by the Zlatitsa River, amid several valleys, which for a long time kept it off the radar of chroniclers and writers — hidden, yet enduring."
+      },
+      {
+        "heading": "History",
+        "body": "The area around the village holds traces of an ancient settlement — not far away lie the remains of Kotenovtsi Fortress and a Thracian sanctuary, testament to the centuries-old history of this land at the foot of Stara Planina. The population of {{village}} has never exceeded 1,000 people, and the village has suffered devastation from disease and invasion at least three times throughout its history — each time rising again, like the phoenix."
+      },
+      {
+        "heading": "Localities and Nature",
+        "body": "The Zlatitsa River flows past the village — described by locals as \"as golden as it is bloody,\" owing to the vicissitudes of history. The surrounding area is dotted with places bearing evocative names: Zdravitsa, Zdravchenitsa, Tserovski Peak and Tserovski Valley, as well as Mŭrtvini — shaded spots where sunlight rarely reaches. Beech and oak forests encircle the village, and its proximity to Stara Planina makes it a starting point for travelers seeking clean air, mountain trails, and tranquility far from the noise of the city."
+      },
+      {
+        "heading": "Traditions and Culture",
+        "body": "{{village}} is known for its celebrated brass band music, its wealth of folk songs, and its haiduk traditions. Hard work and patience are considered defining traits of the local people — qualities forged by the demanding life of the mountain region."
+      }
+    ]
+  },
+  "attractions": {
+    "title": "Attractions",
+    "lead": "Discover the historical and natural treasures of {{village}} and its surroundings.",
+    "sourceLabel": "Source",
+    "items": [
+      {
+        "title": "Thracian Sanctuary and Fortress",
+        "text": "On a hill above the village stands a complex that researchers describe as a \"cult site, sanctuary, fortress, settlement\" — covering an area of about one decare (0.1 hectare). Excavations at the start of the last century uncovered a marble relief of the Thracian Horseman, a relief of a forest nymph, and Roman coins. The site is presumed to date from the Roman era.",
+        "citation": "V. Dobruski, \"The Thracian Horsemen and Other Rider Gods\" (1907)",
+        "citationUrl": "https://bulgariansanctuaries.com/2019/05/14/%d1%81%d0%b2%d0%b5%d1%82%d0%b8%d0%bb%d0%b8%d1%89%d0%b5-%d0%ba%d0%be%d1%82%d0%b5%d0%bd%d0%be%d0%b2%d1%86%d0%b8/"
+      },
+      {
+        "title": "Church of the Ascension of Christ",
+        "text": "The village church, built in 1863 — the spiritual heart of Kotenovtsi for more than a century and a half, and a witness to the National Revival era in this mountain region."
+      },
+      {
+        "title": "The Zlatitsa River",
+        "text": "The river by which the village is tucked away — locals describe it as \"as golden as it is bloody.\" Its name is no accident: gold was once panned from its riverbed."
+      },
+      {
+        "title": "Tserovski Peak and Tserovski Valley",
+        "text": "Picturesque localities in the surrounding area, part of the network of trails through the beech and oak forests of Stara Planina."
+      },
+      {
+        "title": "Zdravitsa and Zdravchenitsa",
+        "text": "Localities named after zdravets (geranium) — a symbol of health and blessing in Bulgarian tradition."
+      },
+      {
+        "title": "Trails in Stara Planina",
+        "text": "Routes through beech and oak forests, ideal for hiking and nature watching."
+      },
+      {
+        "title": "Traditional Village Architecture",
+        "text": "Authentic stone and timber houses, characteristic of villages in northwestern Bulgaria."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "lead": "Photos of {{village}} and its surroundings.",
+    "placeholderNote": "(Placeholder images — to be replaced with real photos of the village.)",
+    "photos": [
+      "View of Stara Planina",
+      "Kotenovtsi Fortress",
+      "Beech Forest",
+      "Village Street",
+      "The Village Church",
+      "Sunset over the Valley"
+    ]
+  },
+  "contacts": {
+    "title": "Contact",
+    "lead": "Get in touch with us or find us on the map.",
+    "infoTitle": "Information",
+    "addressVillage": "Village of {{village}}",
+    "addressMunicipality": "{{municipality}} Municipality",
+    "addressProvince": "{{province}} Province",
+    "addressPostal": "Postal code: {{postalCode}}",
+    "note": "For questions related to the village, you can contact the {{municipality}} Municipal Administration.",
+    "linksTitle": "Useful Links",
+    "linkMunicipality": "Berkovitsa Municipality — official website",
+    "linkWikipedia": "Kotenovtsi on Wikipedia",
+    "linkWikipediaUrl": "https://en.wikipedia.org/wiki/Kotenovtsi"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}
